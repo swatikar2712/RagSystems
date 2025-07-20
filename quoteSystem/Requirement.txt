@@ -1,0 +1,15 @@
+sentence-transformer
+datasets
+faiss-cpu
+accelerate
+google-generativeai
+protobuf==3.20.2
+google-generativeai
+ragas
+evaluate
+unidecode
+sentence-transformer[torch]
+numpy
+pandas
+streamlit
+dotenv
