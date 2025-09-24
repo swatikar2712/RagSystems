@@ -56,3 +56,4 @@ if st.session_state.query:
     # Show the retrieved context
     with st.expander("📄 Context used from the document"):
         st.write(context)
+
